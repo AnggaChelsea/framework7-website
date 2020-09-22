@@ -2,9 +2,10 @@ Framework7-Website
 ==================
 Framework7's website to use these docs offline
 
-http://framework7.io
+### chek that framework: http://framework7.io
 
 ## Gulp
+### framework7 ( https://imgur.com/DoSPS9m )
 
 Run `npm install` under root dir to install npm packages.
 And then, you can use gulp to compile less and pug files, read more about [Gulp](http://gulpjs.com/).
